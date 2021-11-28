@@ -1,0 +1,16 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Date.js",
+  "scripts": {
+    "start": "nodemon test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^2.0.1",
+    "nodemon": "^2.0.13"
+  }
+}
